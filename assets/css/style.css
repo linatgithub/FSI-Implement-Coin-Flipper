@@ -26,7 +26,12 @@ h1 {
     padding: 20px;
     border: 1px solid black;
 }
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 
+  }
 .message-container {
     color: darkorange;
     font-size: 1.5em;
@@ -37,6 +42,7 @@ button {
     font-size: 1.5em;
     margin-right: 10px;
     border-radius: 10px;
+    
 }
 
 #flip,
